@@ -2,7 +2,7 @@
 Just a simple wordlists repo.
 
 ## BadPasswords
-this list is designed to showcase passwords found and known publicly that have found during testing
+this list is designed to showcase passwords found and known publicly that have found during testing. Tried to upload this, github wasn't having any of that. Too large. Tried to shrink, tried to adjust, still far too large. So... see pwlist-minimize section
 
 ## web-suffixes
 needed to use this to find a hidden file once. More reasons why you should fuzz 403s, sometimes they didn't lock down the subfolders. 
